@@ -1,0 +1,23 @@
+<head>
+</head>
+<body>
+<h2>Articles</h2>
+
+
+    <a href="/article/Sample" class="article-link", target="_blank">
+        <div class="article-box">
+            <h3>Sample <span class="contributor">- Pulkit</span></h3> </a>
+            <p><strong>Tag:</strong> Test</p>
+            <p>This is a sample article entry</p>
+        </div>
+    
+
+    <a href="/article/New%20Article" class="article-link", target="_blank">
+        <div class="article-box">
+            <h3>New Article <span class="contributor">- John Doe</span></h3> </a>
+            <p><strong>Tag:</strong> News</p>
+            <p>This is a new article</p>
+        </div>
+    
+
+</body>
